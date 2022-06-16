@@ -9,5 +9,8 @@
         <module name="PokemonDeepLearning" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="PokemonDeepLearning" target="16" />
+    </bytecodeTargetLevel>
   </component>
 </project>
